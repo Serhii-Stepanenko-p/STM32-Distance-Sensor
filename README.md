@@ -68,4 +68,5 @@ This project demonstrates how to interface an HC-SR04 ultrasonic distance sensor
 4. **Distance Conversion**: Time is converted to distance using the formula: `Distance = (Time × 0.034) / 2`
 5. **Display Update**: Distance is shown on the OLED display in real-time
 
+![image](https://github.com/user-attachments/assets/b50f27e9-6349-4e37-ae02-811d28e549fe)
 
