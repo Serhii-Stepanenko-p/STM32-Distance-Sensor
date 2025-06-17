@@ -11,18 +11,7 @@ This project demonstrates how to interface an HC-SR04 ultrasonic distance sensor
 - **SSD1306 OLED Display (128x64)** - Visual output
 - **Jumper wires** - Connections
 - **Breadboard** (optional) - For prototyping
-
-## Prerequisites
-
-Before starting this project, ensure you have:
-
-1. **STM32CubeIDE** installed on your computer
-2. **ST-Link V2** programmer (or compatible)
-3. Basic knowledge of STM32 programming
-4. Completed a basic LED blink project with Blue Pill
-
->  **New to STM32?** Check out this [comprehensive tutorial](https://www.youtube.com/watch?v=kXg467nVd_A) covering STM32CubeIDE installation and basic LED blink programming.
-
+- 
 ## Wiring Diagram
 
 ### HC-SR04 Connections
