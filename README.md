@@ -69,4 +69,5 @@ This project demonstrates how to interface an HC-SR04 ultrasonic distance sensor
 5. **Display Update**: Distance is shown on the OLED display in real-time
 
 ![image](https://github.com/user-attachments/assets/b50f27e9-6349-4e37-ae02-811d28e549fe)
+![image](https://github.com/user-attachments/assets/98e2c4b7-8b50-448f-938d-fb33ddfa3188)
 
